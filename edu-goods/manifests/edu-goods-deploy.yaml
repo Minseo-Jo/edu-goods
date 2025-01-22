@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: edu-goods
-          image: choms0209/k8s-edu:v0.0.6
+          image: choms0209/k8s-edu:v0.0.4
           imagePullPolicy: IfNotPresent
           ports:
             - name: http
