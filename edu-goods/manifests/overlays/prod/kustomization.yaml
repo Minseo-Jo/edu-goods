@@ -11,5 +11,3 @@ patchesStrategicMerge:
 images:
 - name: choms0209/k8s-edu
   newTag: "202501231051"
-- name: ydcho0902/k8s-edu
-  newTag: "202501212323"
